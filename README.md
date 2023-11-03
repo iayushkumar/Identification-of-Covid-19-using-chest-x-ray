@@ -12,3 +12,5 @@
 
 This study provides a promising step towards automated and accurate COVID-19 diagnosis using state-of-the-art deep learning techniques, potentially contributing to better patient care and healthcare system efficiency.
 
+
+[**Check The Research Paper**](https://drive.google.com/file/d/1ZwP8fnHx8tYpKvNC06P1F0CuKF6VGf22/view?usp=sharing)
