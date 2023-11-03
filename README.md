@@ -15,4 +15,3 @@ This study provides a promising step towards automated and accurate COVID-19 dia
 
 [**Check The Research Paper**](https://drive.google.com/file/d/1ZwP8fnHx8tYpKvNC06P1F0CuKF6VGf22/view?usp=sharing)
 
-https://drive.google.com/file/d/1ZwP8fnHx8tYpKvNC06P1F0CuKF6VGf22/view?usp=sharing
